@@ -1,4 +1,4 @@
-# Market Cars
+# Market Cars 🚗
 Aplicação criada com fins educativos. Simula um catálogo de carros, ao clicarmos em um deles temos informações mais especifícas sobre o mesmo como tipagem, preço e afins. 
 
 <br>
